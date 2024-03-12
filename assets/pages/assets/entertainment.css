@@ -1,0 +1,8 @@
+#entertainment {
+    background-color: var(--entertainment-bg);
+
+}
+
+#entertainment .articles article a {
+    background-color: var(--entertainment-btn);
+}

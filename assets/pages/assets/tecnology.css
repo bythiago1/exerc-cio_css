@@ -1,0 +1,7 @@
+#tecnology {
+    background-color: var(--tec-bg);
+}
+
+#tecnology .articles article a {
+    background-color: var(--tec-btn);
+}
