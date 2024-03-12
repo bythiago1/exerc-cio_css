@@ -82,19 +82,3 @@ section h2,
 section h2 {
     font-size: 32px;
 }
-
-#sports {
-    background-color: var(--sports-bg);
-}
-
-#sports .articles article a {
-    background-color: var(--sports-btn);
-}
-
-#economy {
-    background-color: var(--economy-bg);
-}
-
-#economy .articles article a {
-    background-color: var(--economy-btn);
-}

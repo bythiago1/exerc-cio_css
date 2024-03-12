@@ -1,0 +1,7 @@
+#sports {
+    background-color: var(--sports-bg);
+}
+
+#sports .articles article a {
+    background-color: var(--sports-btn);
+}

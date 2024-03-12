@@ -1,0 +1,7 @@
+#economy {
+    background-color: var(--economy-bg);
+}
+
+#economy .articles article a {
+    background-color: var(--economy-btn);
+}
